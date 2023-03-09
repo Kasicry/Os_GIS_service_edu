@@ -5,7 +5,6 @@
   <name>tiger:poly_landmarks</name>
   <mimeFormats>
     <string>image/png</string>
-    <string>image/jpeg</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
