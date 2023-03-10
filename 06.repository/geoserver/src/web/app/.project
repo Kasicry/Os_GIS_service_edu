@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>gs-web-app</name>
+  <comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>gs-web-core</project>
+    <project>gs-main</project>
+    <project>gs-ows</project>
+    <project>gs-platform</project>
+    <project>gs-web-wms</project>
+    <project>gs-wms</project>
+    <project>gs-wfs</project>
+    <project>gs-web-gwc</project>
+    <project>gs-gwc</project>
+    <project>gs-rest</project>
+    <project>gs-web-wfs</project>
+    <project>gs-web-wcs</project>
+    <project>gs-wcs</project>
+    <project>gs-wcs1_1</project>
+    <project>gs-web-demo</project>
+    <project>gs-web-sec-jdbc</project>
+    <project>gs-web-sec-core</project>
+    <project>gs-sec-jdbc</project>
+    <project>gs-web-sec-ldap</project>
+    <project>gs-sec-ldap</project>
+    <project>gs-web-rest</project>
+    <project>gs-restconfig</project>
+    <project>gs-wcs1_0</project>
+    <project>gs-wcs2_0</project>
+    <project>gs-kml</project>
+    <project>gs-restconfig-wcs</project>
+    <project>gs-restconfig-wfs</project>
+    <project>gs-restconfig-wms</project>
+    <project>gs-restconfig-wmts</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+    <nature>org.springframework.ide.eclipse.core.springnature</nature>
+  </natures>
+</projectDescription>

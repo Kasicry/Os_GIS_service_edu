@@ -1,0 +1,13 @@
+org\geoserver\wcs\kvp\GetCoverageReaderTest.class
+org\geoserver\wcs\xml\DescribeCoverageXmlParserTest.class
+org\geoserver\wcs\DynamicDimensionsTest.class
+org\geoserver\wcs\CustomDimensionsTest.class
+org\geoserver\wcs\test\WCSTestSupport.class
+org\geoserver\wcs\WCSDisabledTest.class
+org\geoserver\wcs\xml\GetCapabilitiesXmlParserTest.class
+org\geoserver\wcs\GetCapabilitiesTest.class
+org\geoserver\wcs\DescribeCoverageTest.class
+org\geoserver\wcs\test\CoverageTestSupport.class
+org\geoserver\wcs\xml\GetCoverageXmlParserTest.class
+org\geoserver\wcs\GetCoverageTest.class
+org\geoserver\wcs\kvp\InterpolationParserTest.class

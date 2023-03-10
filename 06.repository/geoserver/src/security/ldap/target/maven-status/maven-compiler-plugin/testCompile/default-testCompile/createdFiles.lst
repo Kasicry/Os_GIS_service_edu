@@ -1,0 +1,11 @@
+org\geoserver\security\ldap\LDAPBaseTest.class
+org\geoserver\security\ldap\LDAPRoleServiceTest$LDAPRoleServiceLdiff4Test.class
+org\geoserver\security\ldap\LDAPTestUtils.class
+org\geoserver\security\ldap\LDAPUserGroupServiceTest.class
+org\geoserver\security\ldap\LDAPAuthenticationProviderTest$LDAPAuthenticationProviderDataTest.class
+org\geoserver\security\ldap\LDAPRoleServiceTest$LDAPRoleServiceLdiffTest.class
+org\geoserver\security\ldap\LDAPAuthenticationProviderTest.class
+org\geoserver\security\ldap\LDAPRoleServiceTest.class
+org\geoserver\security\ldap\LDAPAuthenticationProviderTest$LDAPAuthenticationProviderData3Test.class
+org\geoserver\security\ldap\EmbeddedLdapServer.class
+org\geoserver\security\ldap\LDAPRoleServiceTest$LDAPRoleServiceLdiff2Test.class

@@ -1,0 +1,13 @@
+org\geoserver\kml\GeoSearchKMLTest.class
+org\geoserver\kml\KMLReflectorTest.class
+org\geoserver\kml\KMLWFSTest$1.class
+org\geoserver\kml\decorator\PlacemarkStyleDecoratorTest$FakeKmlEncodingContext.class
+org\geoserver\kml\RegionatingTestSupport.class
+org\geoserver\kml\decorator\PlacemarkStyleDecoratorTest.class
+org\geoserver\kml\KMLSuperOverlayTest.class
+org\geoserver\kml\KMLWFSTest.class
+org\geoserver\kml\KMLWFSTest$1$1.class
+org\geoserver\kml\KMLWFSTest$2.class
+org\geoserver\kml\utils\KmlCentroidBuilderTest.class
+org\geoserver\kml\iterator\FeatureIteratorFactoryTest.class
+org\geoserver\kml\KMLTest.class

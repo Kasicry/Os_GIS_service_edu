@@ -1,0 +1,3 @@
+org\geoserver\rest\service\LocalWMSSettingsControllerTest.class
+org\geoserver\rest\service\ResourceAccessManagerWMSTest.class
+org\geoserver\rest\service\WMSSettingsControllerTest.class

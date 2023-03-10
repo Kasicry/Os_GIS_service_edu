@@ -1,0 +1,6 @@
+org\geoserver\rest\ExceptionThrowingController.class
+org\geoserver\rest\RESTDispatcherCallbackTest.class
+org\geoserver\rest\EnviromentInjectionCallbackTest.class
+org\geoserver\rest\GsUserController.class
+org\geoserver\rest\ExceptionHandlingTest.class
+org\geoserver\rest\util\IOUtilsTest.class

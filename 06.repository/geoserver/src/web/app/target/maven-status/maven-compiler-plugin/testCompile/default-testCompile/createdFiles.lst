@@ -1,0 +1,11 @@
+org\geoserver\web\WebXmlTest.class
+org\geoserver\wicket\test\WicketTestApplication$1.class
+org\geoserver\wicket\test\IComponentFactory.class
+org\geoserver\wicket\test\WicketTestApplication.class
+org\geoserver\filters\GZIPResponseStreamTest$CapturingByteOutputStream.class
+org\geoserver\filters\GZIPResponseStreamTest.class
+org\geoserver\wicket\test\TestHomePage.class
+org\geoserver\web\Start$1.class
+org\geoserver\filters\GZIPResponseStreamTest$ByteStreamCapturingHttpServletResponse.class
+org\geoserver\filters\GZIPResponseStreamTest$1.class
+org\geoserver\web\Start.class

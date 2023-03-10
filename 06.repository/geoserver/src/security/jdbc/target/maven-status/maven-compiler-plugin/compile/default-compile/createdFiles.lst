@@ -1,0 +1,13 @@
+org\geoserver\security\jdbc\JDBCRoleService.class
+org\geoserver\security\jdbc\AbstractJDBCService.class
+org\geoserver\security\jdbc\JDBCRoleStore.class
+org\geoserver\security\jdbc\JDBCSecurityProvider.class
+org\geoserver\security\jdbc\config\JDBCUserGroupServiceConfig.class
+org\geoserver\security\jdbc\config\JDBCConnectAuthProviderConfig.class
+org\geoserver\security\jdbc\JDBCSecurityConfigException.class
+org\geoserver\security\jdbc\config\JDBCRoleServiceConfig.class
+org\geoserver\security\jdbc\JDBCConnectAuthProvider.class
+org\geoserver\security\jdbc\JDBCUserGroupService.class
+org\geoserver\security\jdbc\JdbcSecurityConfigValidator.class
+org\geoserver\security\jdbc\config\JDBCSecurityServiceConfig.class
+org\geoserver\security\jdbc\JDBCUserGroupStore.class

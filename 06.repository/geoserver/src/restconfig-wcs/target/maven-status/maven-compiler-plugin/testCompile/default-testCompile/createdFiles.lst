@@ -1,0 +1,3 @@
+org\geoserver\rest\catalog\CoverageControllerWCSTest.class
+org\geoserver\rest\service\LocalWCSSettingsControllerTest.class
+org\geoserver\rest\service\WCSSettingsControllerTest.class

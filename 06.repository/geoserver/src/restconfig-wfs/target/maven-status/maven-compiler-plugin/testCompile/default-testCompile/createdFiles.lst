@@ -1,0 +1,4 @@
+org\geoserver\rest\catalog\FeatureTypeControllerWFSTest.class
+org\geoserver\rest\service\WFSSettingsControllerTest.class
+org\geoserver\rest\catalog\DataStoreFileUploadWFSTest.class
+org\geoserver\rest\service\LocalWFSSettingsControllerTest.class
